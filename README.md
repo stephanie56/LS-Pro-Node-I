@@ -6,20 +6,20 @@
 		
 	* Node
 	
-	A: Javascript was first designed to write programs that run on browsers (client side). NodeJS is a javascript program that you can install on your desktop to write desktop & mobile applications, compile and run javascript codes locally on your desktop. 
+	**A: Javascript was first designed to write programs that run on browsers (client side). NodeJS is a javascript program that you can install on your computer to write desktop & mobile applications, compile and run javascript codes locally on your computer.** 
 	
 	* Chrome's V8 Engine
 	
-	A: V8 is a program written with C++ that allows you to write and compile javascript code on computer.
+	**A: V8 is a program written with C++ that allows you to write and compile javascript code on computers.**
 	* GET request
 	
-	A: It's a http request from the client (user) to get information from the server with a given url.
+	**A: It's a HTTP request method that allows client computers (users) to get information from the server with a given url.**
 	* Server
 	
-	A: Server is a computer that is designed to host websites and data.
+	**A: Server is a computer that is designed to store data and share data with other client computers.**
 	* express
 	
-	A: It's a framework that makes it easier to build a server with nodeJS. 
+	**A: It's a framework that makes it easier to build a server with nodeJS.** 
 
 
 2. Fork and clone this repo.
