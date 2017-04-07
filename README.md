@@ -5,10 +5,16 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Node
+	A: Traditionally, javascript can only write and run apps on browser (client side), and NodeJS is a javascript program that you can install on your desktop to write applications, compile and run other javascript codes locally on your desktop. 
+	
 	* Chrome's V8 Engine
+	A: V8 is a program written by C++ that allows user to write and compile server-side code using javascript.
 	* GET request
+	A: It's a http request from the client (user) to get information from the server using a given url.
 	* Server
+	A: It's a computer that host websites and database.
 	* express
+	A: It's a framework that makes it easier to build a server with nodeJS. 
 
 
 2. Fork and clone this repo.
