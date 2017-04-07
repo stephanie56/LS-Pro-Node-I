@@ -1,0 +1,22 @@
+{
+  "name": "node_homework",
+  "version": "1.0.0",
+  "description": "Node Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanie56/LS-Pro-Node-I.git"
+  },
+  "author": "Stephanie Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanie56/LS-Pro-Node-I/issues"
+  },
+  "homepage": "https://github.com/stephanie56/LS-Pro-Node-I#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
